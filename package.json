@@ -1,0 +1,20 @@
+{
+  "name": "os2_vezbe-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/arianapastorcic-crypto/os2_vezbe-node#readme",
+  "bugs": {
+    "url": "https://github.com/arianapastorcic-crypto/os2_vezbe-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianapastorcic-crypto/os2_vezbe-node.git"
+  },
+  "license": "ISC",
+  "author": "Ariana Pastorčić",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
