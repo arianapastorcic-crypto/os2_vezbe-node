@@ -1,0 +1,24 @@
+git clone https://github.com/arianapastorcic-crypto/os2_vezbe-node.git
+git init
+touch index.js
+explorer.exe .
+cat indeks.js
+git add indeks.js
+git commit -m "Dodana index.js datoteka"
+git log
+git push
+npm -v
+npm init
+ls
+cat package.json
+node index.js
+git add package.json
+git commit -m "Dodana package.json datoteka"
+git log
+git push
+touch commands.txt
+explorer.exe .
+git add commands.txt
+git commit -m "Dodatan commands.txt datoteka"
+git log
+git push
